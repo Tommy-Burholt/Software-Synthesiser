@@ -1,0 +1,12 @@
+# ninja log v6
+4	222	1727270047232097208	CMakeFiles/SynthTest.dir/main.cpp.o	4ba6cfd308e68ba5
+8	148	1727262826868673893	CMakeFiles/SynthTest.dir/MidiParser.cpp.o	49ff0265035f43cf
+222	245	1727270047450301446	SynthTest	9c729be0d1698152
+2	37	1737715812511984592	build.ninja	88c062971673d011
+8	67	1727256544609769204	CMakeFiles/SynthTest.dir/WavetableOscillator.cpp.o	89cd87a1d182159b
+7	200	1727267149132203762	CMakeFiles/SynthTest.dir/ADSR.cpp.o	e1cbe77ee30a3743
+3	66	1737715821267797935	CMakeFiles/SynthTest.dir/MidiParser.cpp.o	6eaa63a5ace13ef7
+3	67	1737715821267682643	CMakeFiles/SynthTest.dir/WavetableOscillator.cpp.o	b3967af8db92ac1f
+3	275	1737715821267906602	CMakeFiles/SynthTest.dir/ADSR.cpp.o	9cd15b4c4bd4a140
+2	298	1737715821267416727	CMakeFiles/SynthTest.dir/main.cpp.o	e9559cadcf4a1f7b
+298	334	1737715821563410517	SynthTest	16ad2976ccc099fb
